@@ -23,5 +23,4 @@ pip install -r requirements.txt
 
 Open notebook and run all cells.
 
-## Author
-Your Name
+
